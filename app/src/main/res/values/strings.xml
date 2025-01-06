@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CatCafe</string>
+    <string name="pantalla_inicio">Inicio</string>
+    <string name="insertar">Insertar Gato</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="atras">Atrás</string>
+    <string name="cargando">Cargando</string>
+    <string name="error">Error</string>
+    <string name="insertar_gato">Insertar gato</string>
+</resources>
