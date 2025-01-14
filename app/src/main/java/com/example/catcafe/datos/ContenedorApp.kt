@@ -11,7 +11,7 @@ interface ContenedorApp {
 }
 
 class GatoContenedorApp : ContenedorApp {
-    private val baseUrl = "192.168.1.141:3000"
+    private val baseUrl = "http://10.0.2.2:3000/"
 
     private val json = Json { ignoreUnknownKeys = true }
 
